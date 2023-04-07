@@ -12,7 +12,7 @@ Just put your csv file in here and rename it with data.csv, then run csvToJSON.p
 
 Open mysqlToJSON.php file and change the database and table information from $connection and $sql, then run mysqlToJSON.php file and get data as JSON format.
 
-## Convert from MySQL to JSON
+## Convert from API to JSON
 
 Open urlToJSON.php file and change $url value with your API, then run urlToJSON.php file and get data as JSON format.
 
